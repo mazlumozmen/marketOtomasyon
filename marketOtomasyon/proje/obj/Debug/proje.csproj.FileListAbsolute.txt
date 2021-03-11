@@ -1,0 +1,16 @@
+C:\Users\mazlum\source\repos\proje\proje\bin\Debug\proje.exe.config
+C:\Users\mazlum\source\repos\proje\proje\bin\Debug\proje.exe
+C:\Users\mazlum\source\repos\proje\proje\bin\Debug\proje.pdb
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.exe
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.pdb
+C:\Users\mazlum\source\repos\proje\proje\bin\Debug\MySql.Data.dll
+C:\Users\mazlum\source\repos\proje\proje\bin\Debug\Google.Protobuf.dll
+C:\Users\mazlum\source\repos\proje\proje\bin\Debug\MySql.Data.xml
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.girisformu.resources
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.yeniSifreFormu.resources
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.csprojAssemblyReference.cache
+C:\Users\mazlum\source\repos\proje\proje\obj\Debug\proje.csproj.CopyComplete
